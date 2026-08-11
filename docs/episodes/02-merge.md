@@ -1,5 +1,8 @@
 # 第2回：git merge
 
+> **Forkで実践**
+> この回は [GitPracticeUnity](https://github.com/misora-kosaka/GitPracticeUnity) の自分のForkで試せます。未準備の場合は [第0回](00-introduction.md) を先に終えてください。以下のbranch操作はFork内だけで行います。
+
 この回ではpractice branchを使います。
 
 ```bash

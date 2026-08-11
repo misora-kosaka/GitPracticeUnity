@@ -1,5 +1,8 @@
 # 第7回：restore / reset / revert / amend
 
+> **取り消し操作はForkのpractice branchで**
+> [GitPracticeUnity](https://github.com/misora-kosaka/GitPracticeUnity) をForkして練習します。特に `reset --hard` はWorking Treeも変更するので、mainではなく練習用branchだけで試してください。
+
 ## restore
 
 Player.csを編集し、まだaddせず：

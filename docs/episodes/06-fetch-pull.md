@@ -1,5 +1,8 @@
 # 第6回：fetch / pull / pull --rebase
 
+> **remote操作も自分のForkで再現します**
+> [GitPracticeUnity](https://github.com/misora-kosaka/GitPracticeUnity) をForkし、同じForkを2つのフォルダへcloneして「自分」と「チームメンバー役」を再現します。
+
 この回はremoteの変化が必要なので、2つのcloneを使うと理解しやすいです。
 
 ## Clone A

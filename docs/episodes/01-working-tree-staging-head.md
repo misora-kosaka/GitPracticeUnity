@@ -1,5 +1,15 @@
 # 第1回：Working Tree / Staging Area / HEAD
 
+> **この回を実際に試せます**
+> [GitPracticeUnity](https://github.com/misora-kosaka/GitPracticeUnity) を自分のGitHubアカウントへForkしてから進めてください。初めての方は [第0回：準備](00-introduction.md) でFork・clone・upstream登録を先に行います。
+
+練習を独立させたい場合は、教材本体の `main` からpractice branchを作ると安全です。
+
+```bash
+git fetch upstream
+git switch -c practice/01-working-tree upstream/main
+```
+
 ## 1. Player.csを編集
 
 `Assets/Scripts/Player.cs` の `moveSpeed` を `5.0f` から `7.0f` に変更します。

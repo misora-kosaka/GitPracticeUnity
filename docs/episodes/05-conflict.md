@@ -1,5 +1,8 @@
 # 第5回：rebase CONFLICT
 
+> **この回は意図的にCONFLICTを起こします**
+> 必ず [GitPracticeUnity](https://github.com/misora-kosaka/GitPracticeUnity) の自分のForkで練習してください。元リポジトリでは実行しません。
+
 記事と同じ衝突を意図的に作ります。
 
 ## Base

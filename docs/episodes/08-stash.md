@@ -1,5 +1,8 @@
 # 第8回：git stash
 
+> **Unityのuntracked Assetも一緒に試せます**
+> [GitPracticeUnity](https://github.com/misora-kosaka/GitPracticeUnity) の自分のForkで、tracked変更に加えて新規ファイルと `.meta` を作り、通常のstashと `-u` の違いを確認します。
+
 ## tracked変更を退避
 
 Player.csを編集して：

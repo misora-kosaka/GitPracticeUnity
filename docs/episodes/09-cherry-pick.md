@@ -1,5 +1,8 @@
 # 第9回：git cherry-pick
 
+> **releaseへのbackportをForkで再現**
+> [GitPracticeUnity](https://github.com/misora-kosaka/GitPracticeUnity) の自分のForkでfeature / release branchを作り、特定commitだけを `cherry-pick` する流れを試します。
+
 ## feature側で3commit作る
 
 ```text

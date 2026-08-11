@@ -1,5 +1,8 @@
 # 第11回：総合演習
 
+> **全11回を自分のForkで通してみよう**
+> [GitPracticeUnity](https://github.com/misora-kosaka/GitPracticeUnity) を使い、feature開発 → stash → rebase → Pull Request → cherry-pick → reflogまで、一連のUnityチーム開発をまとめて練習します。
+
 第1〜10回を1本につなげます。
 
 ## 1. mainを確認

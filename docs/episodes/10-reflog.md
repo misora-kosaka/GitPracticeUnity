@@ -1,5 +1,8 @@
 # 第10回：git reflog
 
+> **この回は意図的にcommitを見えなくします**
+> [GitPracticeUnity](https://github.com/misora-kosaka/GitPracticeUnity) の自分のForkで、必ずpractice branchを使ってください。`reset --hard` 後に `reflog` からcommitを探し、rescue branchで保護します。
+
 この回は必ずpractice branchで行ってください。
 
 ## 1. 3commit以上作る
