@@ -1,0 +1,35 @@
+# 第6回：fetch / pull / pull --rebase
+
+この回はremoteの変化が必要なので、2つのcloneを使うと理解しやすいです。
+
+## Clone A
+
+通常の作業用clone。
+
+## Clone B（チームメンバー役）
+
+同じForkを別フォルダへcloneします。
+
+```bash
+cd ..
+git clone https://github.com/YOUR_NAME/GitPracticeUnity.git GitPracticeUnity-teammate
+```
+
+Clone Bでmainへcommitしてpushします。
+
+Clone Aへ戻り、まず：
+
+```bash
+git fetch origin
+git log --oneline --graph --decorate --all
+```
+
+local `main` は動かず、`origin/main` だけ進むことを確認します。
+
+続いて：
+
+```bash
+git pull --ff-only
+```
+
+分岐した履歴も試したい場合は、Clone AとBの双方で別commitを作り、`git pull --rebase` と `git pull --no-rebase` の違いを比較します。
