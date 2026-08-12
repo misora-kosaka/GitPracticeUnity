@@ -1,5 +1,7 @@
 # GitPracticeUnity
 
+<img width="1672" height="941" alt="GitPracticeUnity" src="https://github.com/user-attachments/assets/cd7b9a96-3773-41ab-bf22-b1a49e6677da" />
+
 「Unityでいってみよう！」の連載 **Unity開発者のための実践Git講座** 用の練習リポジトリです。
 
 このリポジトリは、記事を読むだけではなく、自分のGitHubアカウントへForkして実際に `branch` / `merge` / `rebase` / `stash` / `cherry-pick` / `reflog` を試すための教材として使います。
@@ -21,6 +23,8 @@
 2. Forkした自分のリポジトリをcloneします。
 3. 元リポジトリを `upstream` として登録します。
 4. `docs/episodes/` の各回を順番に試します。
+
+<img width="3200" height="1344" alt="HowToFork" src="https://github.com/user-attachments/assets/b36b5586-e7dc-4f2b-aac8-8e0c3f8bfa5e" />
 
 ```bash
 # YOUR_NAME は自分のGitHubユーザー名
