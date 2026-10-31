@@ -1,3 +1,5 @@
+<img width="1672" height="941" alt="ChatGPT Image 2026年8月11日 22_18_36 (7)" src="https://github.com/user-attachments/assets/eb6ea57e-e23f-478e-a57e-969718b88a7f" />
+
 # 第9回：git cherry-pick
 
 > **releaseへのbackportをForkで再現**
