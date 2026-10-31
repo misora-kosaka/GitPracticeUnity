@@ -1,3 +1,5 @@
+<img width="1672" height="941" alt="ChatGPT Image 2026年8月11日 22_18_11 (9)" src="https://github.com/user-attachments/assets/05946d9f-3258-4f7d-8555-6b76607e8769" />
+
 # 第5回：rebase CONFLICT
 
 > **この回は意図的にCONFLICTを起こします**
