@@ -1,3 +1,5 @@
+<img width="1672" height="941" alt="ChatGPT Image 2026年8月11日 22_18_36 (3)" src="https://github.com/user-attachments/assets/066c3b91-c9b2-479a-b11f-798b8f555d11" />
+
 # 第7回：restore / reset / revert / amend
 
 > **取り消し操作はForkのpractice branchで**
