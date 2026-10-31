@@ -1,3 +1,6 @@
+<img width="1672" height="941" alt="ChatGPT Image 2026年8月11日 22_18_11 (7)" src="https://github.com/user-attachments/assets/c49b525f-93f2-4f59-a9ee-4b09d818bbff" />
+
+
 # 第4回：git rebase
 
 > **Forkで実践**
