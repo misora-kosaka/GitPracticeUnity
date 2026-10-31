@@ -1,8 +1,8 @@
+<img width="1672" height="941" alt="ChatGPT Image 2026年8月11日 22_16_59 (1)" src="https://github.com/user-attachments/assets/5a523926-d183-4365-a0ac-934e3e365c62" />
+
 # 第0回：準備
 
 ## このリポジトリをForkして練習しよう
-
-<img width="1672" height="941" alt="ChatGPT Image 2026年8月11日 22_16_59 (1)" src="https://github.com/user-attachments/assets/5a523926-d183-4365-a0ac-934e3e365c62" />
 
 この連載は、[GitPracticeUnity](https://github.com/misora-kosaka/GitPracticeUnity) を自分のGitHubアカウントへForkして進めます。元リポジトリは教材の基準状態として残し、CONFLICTや `reset --hard` などの練習は必ず自分のForkで行ってください。
 
