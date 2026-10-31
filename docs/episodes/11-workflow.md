@@ -1,3 +1,5 @@
+<img width="1672" height="941" alt="ChatGPT Image 2026年8月11日 22_19_25" src="https://github.com/user-attachments/assets/b15a1a49-33b3-4a81-87d3-c997ae660d9d" />
+
 # 第11回：総合演習
 
 > **全11回を自分のForkで通してみよう**
