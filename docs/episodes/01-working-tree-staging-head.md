@@ -1,3 +1,5 @@
+<img width="1672" height="941" alt="ChatGPT Image 2026年8月11日 22_18_11 (1)" src="https://github.com/user-attachments/assets/fed21e2f-7c16-44c5-8db6-7d4ebc2ac166" />
+
 # 第1回：Working Tree / Staging Area / HEAD
 
 > **この回を実際に試せます**
