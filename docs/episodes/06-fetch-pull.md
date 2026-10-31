@@ -1,3 +1,5 @@
+<img width="1672" height="941" alt="ChatGPT Image 2026年8月11日 22_18_36 (1)" src="https://github.com/user-attachments/assets/33d4b2eb-7cdc-4ba6-b98e-827bf1ed5c9e" />
+
 # 第6回：fetch / pull / pull --rebase
 
 > **remote操作も自分のForkで再現します**
