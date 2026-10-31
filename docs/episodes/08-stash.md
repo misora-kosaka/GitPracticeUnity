@@ -1,3 +1,5 @@
+<img width="1672" height="941" alt="ChatGPT Image 2026年8月11日 22_18_36 (5)" src="https://github.com/user-attachments/assets/a14e9f11-03e6-4f6b-b71c-c19de8a272f3" />
+
 # 第8回：git stash
 
 > **Unityのuntracked Assetも一緒に試せます**
