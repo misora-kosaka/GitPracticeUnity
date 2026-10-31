@@ -1,3 +1,5 @@
+<img width="1672" height="941" alt="ChatGPT Image 2026年8月11日 22_18_36 (9)" src="https://github.com/user-attachments/assets/0d341fc4-bbb8-4286-af6f-e77f03274b61" />
+
 # 第10回：git reflog
 
 > **この回は意図的にcommitを見えなくします**
