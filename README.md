@@ -94,7 +94,7 @@ git reflog
 
 Git操作の練習が主目的なので、サンプルは依存関係を極力減らした小さなC#スクリプトだけにしています。
 
-`ProjectSettings/ProjectVersion.txt` はUnity 6系の目印として入れています。別のUnity 6.xで開いた場合はUnityがProjectSettingsやPackage関連ファイルを更新することがあります。Git練習中に意図しない差分が増えた場合は、まず `git status` で確認してください。
+Git練習中に意図しない差分が増えた場合は、まず `git status` で確認してください。
 
 ## License
 
