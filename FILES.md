@@ -16,8 +16,6 @@
 - `Assets/Scripts/Player.cs.meta`
 - `CONTRIBUTING.md`
 - `LICENSE`
-- `Packages/manifest.json`
-- `ProjectSettings/ProjectVersion.txt`
 - `README.md`
 - `docs/README.md`
 - `docs/episodes/00-introduction.md`
