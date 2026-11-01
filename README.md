@@ -60,6 +60,8 @@ Assets/
 
 ## 全11回
 
+<img width="1310" height="1201" alt="ChatGPT Image 2026年8月11日 22_19_12 (4)" src="https://github.com/user-attachments/assets/1f88ad0f-cc58-476d-909e-f197ccef5683" />
+
 | 回 | テーマ | 練習ガイド |
 |---:|---|---|
 | 0 | 予告・準備 | [00-introduction.md](docs/episodes/00-introduction.md) |
