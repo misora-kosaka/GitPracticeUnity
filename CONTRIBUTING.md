@@ -1,5 +1,7 @@
 # Practice rules
 
+<img width="1536" height="1024" alt="美空のGit練習ルールボード" src="https://github.com/user-attachments/assets/34930ba9-8ad9-428e-87ce-284ecb0b5628" />
+
 このリポジトリはGit練習用です。
 
 - 練習は必ず自分のForkで行ってください。
