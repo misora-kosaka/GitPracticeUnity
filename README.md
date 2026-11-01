@@ -13,7 +13,6 @@
 - 教材本体: [misora-kosaka/GitPracticeUnity](https://github.com/misora-kosaka/GitPracticeUnity)
 - 初めての方: [第0回：Fork・clone・upstream登録](docs/episodes/00-introduction.md)
 - 各回の練習ガイド: [`docs/episodes/`](docs/episodes/)
-- ブログ本文へ貼り付ける導線文: [ブログ記事用の案内文](docs/blog-inserts.md)
 
 練習では意図的にCONFLICT、rebase、`reset --hard` などを試します。**元リポジトリではなく、自分のForkで実行してください。**
 
