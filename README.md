@@ -19,11 +19,13 @@
 ## まず最初に
 
 1. GitHub上でこのリポジトリを **Fork** します。
-2. Forkした自分のリポジトリをcloneします。
-3. 元リポジトリを `upstream` として登録します。
-4. `docs/episodes/` の各回を順番に試します。
 
 <img width="3200" height="1344" alt="HowToFork" src="https://github.com/user-attachments/assets/b36b5586-e7dc-4f2b-aac8-8e0c3f8bfa5e" />
+
+> 練習では意図的にCONFLICTや `reset --hard` を発生させます。必ず自分のForkで試してください。
+
+2. Forkした自分のリポジトリをcloneします。
+3. 元リポジトリを `upstream` として登録します。
 
 ```bash
 # YOUR_NAME は自分のGitHubユーザー名
@@ -36,7 +38,12 @@ git remote add upstream https://github.com/misora-kosaka/GitPracticeUnity.git
 git remote -v
 ```
 
-> 練習では意図的にCONFLICTや `reset --hard` を発生させます。必ず自分のForkで試してください。
+4. `docs/episodes/` の各回を順番に試します。
+
+
+
+
+
 
 ## ベースとなるUnityファイル
 
